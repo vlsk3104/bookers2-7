@@ -1,0 +1,8 @@
+{
+  "name": "bookers2",
+  "private": true,
+  "dependencies": {
+    "jqeury": "0.0.1-security",
+    "jquery-jpostal-ja": "^2.13.24"
+  }
+}
